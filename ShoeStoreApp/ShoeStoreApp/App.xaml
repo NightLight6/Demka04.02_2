@@ -1,0 +1,16 @@
+﻿<Application x:Class="ShoeStoreApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ShoeStoreApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <SolidColorBrush x:Key="MainBG" Color="#FFFFFF"/>
+        <SolidColorBrush x:Key="SecondBG" Color="#7FFF00"/>
+        <SolidColorBrush x:Key="AccesBG" Color="#00FA9A"/>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+        </Style>
+    </Application.Resources>
+</Application>

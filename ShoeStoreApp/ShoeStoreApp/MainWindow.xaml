@@ -1,0 +1,33 @@
+﻿<Window x:Class="ShoeStoreApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShoeStoreApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Background="{StaticResource MainBG}" Height="600" Width="800" Icon="/Icon.png" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="707*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" x:Name="HeaderPanel" Grid.ColumnSpan="2" Background="{StaticResource SecondBG}">
+            <Image Source="/Icon.png" Width="80" Height="80" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="txtblHeader" FontSize="20" FontWeight="Bold" Text="Главная" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <StackPanel HorizontalAlignment="Right" Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" Height="40">
+                    <TextBlock Text="" FontSize="14" FontWeight="Black" x:Name="txtblName" Visibility="Collapsed"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="40" HorizontalAlignment="Center">
+                    <Button Content="Выйти" Height="30" x:Name="btnExit" Margin="0,0,5,0" Click="btnExit_Click" Background="{StaticResource AccesBG}" Visibility="Collapsed"/>
+                    <Button Content="Назад" Height="30" x:Name="btnBack" Click="btnBack_Click" Background="{StaticResource AccesBG}" Visibility="Collapsed"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <Frame Grid.Row ="1"  x:Name="MainFrame" Navigated="MainFrame_Navigated" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

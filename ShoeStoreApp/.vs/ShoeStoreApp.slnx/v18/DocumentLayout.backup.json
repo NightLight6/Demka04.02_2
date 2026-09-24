@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\orderedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\orderedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\orderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\orderlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\productedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\productedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\productlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\productlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\models\\shoestore.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\models\\shoestore.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\productlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\productlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\productedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\productedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\orderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\orderlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\orderedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\orderedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|c:\\users\\xiii\\desktop\\4 \u043A\u0443\u0440\u0441\\\u043C\u0434\u043A.04.02 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0434\u0435\u043C\u043A\u0430 2\\shoestoreapp\\shoestoreapp\\pages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C9E930F-FBBA-4E83-B9FF-FE09CEBC166C}|ShoeStoreApp\\ShoeStoreApp.csproj|solutionrelative:shoestoreapp\\pages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ShoeStoreApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:03:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoeStore.Context.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Models\\ShoeStore.Context.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Models\\ShoeStore.Context.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Models\\ShoeStore.Context.cs",
+              "RelativeToolTip": "ShoeStoreApp\\Models\\ShoeStore.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:01:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductList.xaml.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\ProductList.xaml.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductList.xaml.cs",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\ProductList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:01:12.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductList.xaml",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductList.xaml",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\ProductList.xaml",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductList.xaml",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\ProductList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-24T18:00:36.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductEdit.xaml.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\ProductEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductEdit.xaml.cs",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\ProductEdit.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:00:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductEdit.xaml",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\ProductEdit.xaml",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\ProductEdit.xaml",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\ProductEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-24T17:59:37.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderList.xaml.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\OrderList.xaml.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderList.xaml.cs",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\OrderList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:59:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderList.xaml",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderList.xaml",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\OrderList.xaml",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderList.xaml",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\OrderList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-24T17:58:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderEdit.xaml.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\OrderEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderEdit.xaml.cs",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\OrderEdit.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:57:43.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderEdit.xaml",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\OrderEdit.xaml",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\OrderEdit.xaml",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\OrderEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-24T17:57:26.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\Authorization.xaml.cs",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\Authorization.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:56:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\Authorization.xaml",
+              "RelativeDocumentMoniker": "ShoeStoreApp\\Pages\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\XIII\\Desktop\\4 \u043A\u0443\u0440\u0441\\\u041C\u0414\u041A.04.02 \u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\\u0414\u0435\u043C\u043A\u0430 2\\ShoeStoreApp\\ShoeStoreApp\\Pages\\Authorization.xaml",
+              "RelativeToolTip": "ShoeStoreApp\\Pages\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-24T17:56:02.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

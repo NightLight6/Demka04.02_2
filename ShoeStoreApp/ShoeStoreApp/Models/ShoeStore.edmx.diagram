@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cd97f3dba0c24153b3f33bf339a3ef80" Name="Diagram1">
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Categories" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Cities" Width="1.5" PointX="1.5" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.OrderInfo" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Orders" Width="1.5" PointX="3" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.OrderStatuses" Width="1.5" PointX="0.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.PickupPoints" Width="1.5" PointX="0.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Producers" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Products" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Roles" Width="1.5" PointX="1.5" PointY="26.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Suppliers" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Units" Width="1.5" PointX="0.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStoreDBModel.Users" Width="1.5" PointX="0.75" PointY="22.5" IsExpanded="true" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Products__Catego__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__PickupPoi__CityI__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__OrderInfo__Order__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__OrderInfo__Produ__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Orders__OrderSta__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Orders__PointId__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Orders__UserId__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Products__Produc__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Products__Suppli__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Products__UnitId__68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStoreDBModel.FK__Users__RoleId__693CA210" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
